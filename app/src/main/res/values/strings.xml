@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">gk_gg</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Các chuỗi cho Spinner -->
+    <string-array name="map_types">
+        <item>Normal</item>
+        <item>Hybrid</item>
+        <item>Satellite</item>
+        <item>Terrain</item>
+        <item>None</item>
+        <!-- Thêm các loại bản đồ khác nếu cần -->
+        <item>Traffic</item>
+        <item>Indoor</item>
+        <item>Navigation</item>
+    </string-array>
+</resources>

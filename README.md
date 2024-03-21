@@ -1,10 +1,23 @@
 DEMO MỘT SỐ CHỨC NĂNG 
+
+
 2.1 Chức năng hiển thị các dạng bản đồ trong google map
+
+
 Cách thực hiện demo:
+
+
 1/Tạo ứng dụng Android:  sử dụng Android Studio để tạo ứng dụng
+
+
 2/Thêm Google Maps API:
+
+
 Đầu tiên chắc chắn rằng ứng dụng đã có quyền truy cập Google Maps API. Điều này yêu cầu có một khóa API (API key) của Google Maps. Truy cập Google Cloud Console để lấy khóa API
+
+
 3/Thêm hỗ trợ bản đồ:Thêm SupportMapFragment vào layout
+
 
 ![image](https://github.com/NguyenHuynhGiaHuy/GoogleAndroid_gk/assets/130195149/1b7efcbf-bd5b-490b-96f7-6593766fed49)
 
